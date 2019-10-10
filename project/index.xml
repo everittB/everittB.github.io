@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brenden Everitt</title>
-    <link>https://everittB.github.io/</link>
-      <atom:link href="https://everittB.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Brenden Everitt</description>
+    <title>Projects | Brenden Everitt</title>
+    <link>https://everittB.github.io/project/</link>
+      <atom:link href="https://everittB.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2019 20:08:00 -0600</lastBuildDate>
     <image>
       <url>https://everittB.github.io/img/icon-192.png</url>
-      <title>Brenden Everitt</title>
-      <link>https://everittB.github.io/</link>
+      <title>Projects</title>
+      <link>https://everittB.github.io/project/</link>
     </image>
     
     <item>
